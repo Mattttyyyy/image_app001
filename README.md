@@ -24,7 +24,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/image-app001.git
+    git clone https://github.com/mattttyyyy/image-app001.git
     cd image-app001
     ```
 
@@ -40,7 +40,7 @@ Before you begin, ensure you have the following installed:
     npm run dev
     ```
 
-4. Open your browser and navigate to `http://localhost:3000`.
+4. Open your browser and navigate to `http://localhost:5173/skadi-image-app01`. (Can change depending on the build setup)
 
 ## Docker Setup
 
@@ -58,7 +58,7 @@ Before you begin, ensure you have the following installed:
     docker run -p 8070:8070 image-app001
     ```
 
-3. Open your browser and navigate to `http://localhost:8070`.
+3. Open your browser and navigate to `http://localhost:8070/skadi-image-app01/`.
 
 ### Using Docker Compose (Optional)
 
