@@ -1,5 +1,3 @@
-
-```markdown
 # Skadi Image App
 
 A simple React application for displaying and managing images, built with Vite, TypeScript, Tailwind CSS, and Material-UI (MUI).
@@ -141,7 +139,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Mattttyyyy ([@Mattttyyyy](https://github.com/Mattttyyyy))
 
-```
+
 
 Thank you for reading me, created with love~~ mwah <3 
 
